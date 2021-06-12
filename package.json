@@ -1,0 +1,26 @@
+{
+    "name": "chat-app-Room",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/naeemmusamh/chat-app-Room.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/naeemmusamh/chat-app-Room/issues"
+    },
+    "homepage": "https://github.com/naeemmusamh/chat-app-Room#readme",
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "moment": "^2.29.1",
+        "socket.io": "^4.1.2"
+    }
+}
