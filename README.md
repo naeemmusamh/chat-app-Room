@@ -8,6 +8,11 @@ have fun play around learn something, I create this app to learn more about sock
 ![CSS](https://img.shields.io/badge/Developer-CSS-informational?style=flat&logo=CSS3&logoColor=264bdc&color=264bdc)
 ![express](https://img.shields.io/badge/Developer-ExpressJS-informational?style=flat&logo=Express&logoColor=black&color=black)
 ![socket](https://img.shields.io/badge/⚡Developer-Socket.io-informational?style=flat&logoColor=white&color=black)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+# Deploy Link
+
+[Live Server](https://chats-apps-test.herokuapp.com/chat.html?username=naeem&room=Room+1)
 
 # the package using in this app
 
